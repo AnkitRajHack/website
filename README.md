@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link href="/style.css" type="stylesheet"  />
   </head>
   <body>
     <h1>Shalu</h1>
@@ -59,7 +60,7 @@
         <td>40</td>
       </tr>
     </table>
-
+    
     
     <div style="width: 100px; height: 100px; background-color: aquamarine; overflow: scroll;">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Et magnam quia
@@ -69,5 +70,21 @@
         laborum! Quia inventore culpa hic, eos perspiciatis dicta fuga rem! Fugiat
         quaerat ipsum amet quibusdam et.
     </div>
-  </body>
+    
+
+
+
+        <form >
+            <div> form</div>
+            <input type="text" name="age" value="" placeholder="enter aGE" />
+            <input type="number" name="age" value="" placeholder="enter aGE" />
+            <input type="email" name="age" value="" placeholder="enter aGE" />
+            <input type="checkbox" name="hg" value="male">male
+            <input type="checkbox" name="hg" value="female">femalw
+            <input type="radio" name="ubdvj" value="female">india
+            <input type="radio" name="ubdvj" value="female">aus
+            <input type="radio" name="ubdvjtyu" value="female">aus
+            <input type="button" value="submit" />
+        </form>
+</body>
 </html>
